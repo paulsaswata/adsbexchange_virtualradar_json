@@ -1,5 +1,10 @@
 # adsbexchange_virtualradar_json
 
+##### NOTICE
+ 
+ 09/12/2019 -- ADSBEXCHANGE.COM may not currently be allowing free usage of the API without a key.
+
+
 ##### Functionality
 
  This code can be used to get ADS-B data from adsbexchange.com using Virtual Radar Server's AircraftList.json format.
